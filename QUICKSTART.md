@@ -17,8 +17,8 @@ Get up and running with Movie Recommender CLI in 5 minutes!
 git clone https://github.com/Timothy-Logan/movie-recommender-cli.git
 cd movie-recommender-cli
 
-# Install dependencies
-pip install -r requirements.txt
+# Install depehndencies
+pip install -r requirementsmovie.txt
 ```
 
 ## 3. Run (2 minutes)
