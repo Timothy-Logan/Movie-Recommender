@@ -18,7 +18,7 @@ git clone https://github.com/Timothy-Logan/movie-recommender-cli.git
 cd movie-recommender-cli
 
 # Install depehndencies
-pip install -r requirementsmovie.txt
+pip install -r requirements.txt
 ```
 
 ## 3. Run (2 minutes)
